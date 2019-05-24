@@ -8,6 +8,7 @@ disqusShortname = "jasonwarford"
 googleAnalytics = "UA-58116750-1"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
+pygmentsUseClasses = true
 
 [privacy]
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
