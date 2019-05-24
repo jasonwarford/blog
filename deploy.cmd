@@ -1,7 +1,6 @@
 @echo off
 echo Deploying updates to GitHub . . .
 
-echo Building website . . .
 hugo
 
 echo Pushing changes to jasonwarford.github.io submodule . . .
