@@ -27,7 +27,7 @@ pygmentsUseClasses = true
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
   slogan = "a weblog"
-  description = "Describe your website" # meta description
+  description = "JasonWarford.com is the personal blog of Jason Warford. He is a computer programmer who codes with ASP.NET and C# by day. He is interested in start-ups, entrepreneurship, personal development, dotnet core, software design and architecture." # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Jason"
   authorLink = "https://jasonwarford.com"
