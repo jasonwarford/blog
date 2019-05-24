@@ -1,31 +1,24 @@
+@echo off
 echo Deploying updates to GitHub . . .
 
+echo Building website . . .
 hugo
 
-@echo off
+echo Pushing changes to jasonwarford.github.io submodule . . .
 cd public
-
 git add .
-
 set message=Rebuilding site %date%
-
 IF NOT "%1"=="" set message=%1
-
 git commit -m "%message%"
-
-@echo on
 git push origin master
 
-@echo off
+echo Pushing changes to blog repo . . .
 cd ..
-
 git add .
 git commit -m "%message%"
-
-@echo on
 git push origin master
 
-echo Deployment complete.
+echo Deployment complete!
 
 
 
