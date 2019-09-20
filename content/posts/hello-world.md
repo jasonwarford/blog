@@ -9,7 +9,7 @@ date: "2019-05-23"
 weight: 1
 ---
 
-Obligatory introduction post test.
+Obligatory introduction post.
 
 <!--more-->
 
