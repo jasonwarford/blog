@@ -1,11 +1,11 @@
 ---
-title: "Jason is testing"
+title: "blah blah blahbity blah"
 draft: false
 image: "/img/posts/hello.png"
 showonlyimage: false
 categories: ["ramblings"]
 tags: ["intro"]
-date: "2019-05-26"
+date: "2019-09-30"
 weight: 1
 ---
 
