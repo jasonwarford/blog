@@ -5,7 +5,7 @@ image: "/img/posts/hello.png"
 showonlyimage: false
 categories: ["ramblings"]
 tags: ["intro"]
-date: "2019-05-23"
+date: "2019-05-26"
 weight: 1
 ---
 
