@@ -1,5 +1,5 @@
 ---
-title: "Build and Deploy .Net Core to Digital Ocean"
+title: "GitHub Action: Build and Deploy .Net Core to Digital Ocean"
 draft: false
 showonlyimage: false
 categories: ["snippets"]
