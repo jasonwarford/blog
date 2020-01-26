@@ -4,7 +4,7 @@ draft: false
 showonlyimage: false
 categories: ["snippets"]
 tags: ["git"]
-date: "2020-01-24"
+date: "2020-01-25"
 weight: 1
 ---
 
