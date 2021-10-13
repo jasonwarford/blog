@@ -139,14 +139,10 @@ url = "/"
 name = "Home"
   
 [[Languages.en.menu.main]]
-weight = 3
+weight = 2
 url = "about"
 name = "About"
   
-[[Languages.en.menu.main]]
-weight = 4
-url = "contact"
-name = "Contact"
 
 ############################# Footer Menu ########################
 [[Languages.en.menu.footer]]
