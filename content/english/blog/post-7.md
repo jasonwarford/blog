@@ -5,7 +5,7 @@ images:
   - "images/post/02.jpg"
 date: 2021-02-04T16:56:47+06:00
 draft: false
-author: "Lubana Era"
+author: "Jason"
 tags: ["Photography"]
 categories: ["Photography"]
 ---
