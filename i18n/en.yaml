@@ -35,7 +35,7 @@
   translation: Read More
   
 - id: read_article
-  translation: Read Article
+  translation: Read
 
 - id: showing_posts_from
   translation: Showing posts from
@@ -56,4 +56,4 @@
   translation: Social
 
 - id: copyright-text
-  translation: Designed & Developed By
+  translation: Copyright 2021 | Jason Warford | All Rights Reserved

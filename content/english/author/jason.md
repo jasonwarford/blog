@@ -9,6 +9,4 @@ social:
   link: "https://twitter.com/jasonwarford"
 ---
 
-Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Jason is a software developer with over 15 years of experience. He enjoys learning new things but .Net/C# is is jam.
