@@ -130,7 +130,7 @@ body {
 .section {
   padding: 120px 0; }
   .section-sm {
-    padding: 90px 0; }
+    padding: 130px 0; }
 
 .section-title h1 {
   font-size: 52px;
@@ -643,7 +643,7 @@ header {
     padding: 20px 0; }
   @media (max-width: 767px) {
     header .navbar-brand img {
-      height: 30px; } }
+      height: 100px; } }
   header .nav-item.active .nav-link {
     color: #01AD9F !important; }
   header .nav-item.dropdown .nav-link {
