@@ -3,8 +3,6 @@ title: "How to make toys from old Olarpaper"
 description: "meta description"
 images:
   - "images/post/010.jpg"
-  - "images/post/011.jpg"
-  - "images/post/012.jpg"
 date: 2021-02-05T16:56:47+06:00
 draft: false
 author: "Jason"

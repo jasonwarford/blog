@@ -41,10 +41,7 @@
             {{ else }}
             {{ .Scratch.Set "image" ($imagePath | absURL) }}
             {{ end }}
-            <a href="{{.Permalink}}" class="card-meta-author">
-              <img loading="lazy" src="{{.Scratch.Get `image`}}" alt="{{ .Title }}">
-              <span>{{ .Title }}</span>
-            </a>
+
             {{else if .Params.Email}}
             <a href="{{.Permalink}}" class="card-meta-author">
               <img loading="lazy" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=26&pg&d=identicon">
