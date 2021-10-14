@@ -7,7 +7,7 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+  title: "I’m Jason, A content writer based in LDN, currently at Bookworm."
 
 # social
 social:

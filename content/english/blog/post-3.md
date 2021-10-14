@@ -4,7 +4,7 @@ description: "meta description"
 images:
   - "images/post/06.jpg"
 date: 2021-01-25T11:35:57+06:00
-author: "Henara Colii"
+author: "Jason"
 tags: ["Diy", "Toy"]
 categories: ["LifeStyle"]
 draft: false

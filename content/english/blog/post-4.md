@@ -5,7 +5,7 @@ images:
   - "images/post/05.jpg"
 date: 2021-01-25T16:56:47+06:00
 draft: false
-author: "Henara Colii"
+author: "Jason"
 tags: ["Food", "Gold"]
 categories: ["Food"]
 ---
