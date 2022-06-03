@@ -7,28 +7,22 @@ draft: false
 #caption
 caption:
   enable: true
-  title: "I’m Jason, A content writer based in LDN, currently at Bookworm."
+  title: "I’m Jason, A software developer and CTO/co-founder at DripJobs"
 
 # social
 social:
   enable: true
   social_links:
-  - link: "https://www.facebook.com/"
-    icon: "fab fa-facebook-f"
-
-  - link: "https://www.twitter.com/"
+  - link: "https://www.twitter.com/jasonwarford"
     icon: "fab fa-twitter"
     
-  - link: "https://www.linkedin.com/"
-    icon: "fab fa-instagram"
-    
-  - link: "https://www.github.com/"
+  - link: "https://www.linkedin.com/in/jason-warford-9496a21a1/"
     icon: "fab fa-linkedin-in"
 
 # what_i_do
 what_i_do:
   title: "What I Do"
-  enable: true
+  enable: false
   item:
   - title: "Content Writing"
     icon: "fas fa-pen-nib"
@@ -43,6 +37,5 @@ what_i_do:
     description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
  
 ---
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+A software developer with over 18 years experience working across a wide range of programming languages and technical stacks. Most recently I've left the
+9 to 5 for the startup life. I joined DripJobs in November of 2021 as the CTO and co-founder.
