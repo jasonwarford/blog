@@ -6,6 +6,8 @@ draft: false
 social:
 - icon: "fab fa-twitter" # https://fontawesome.com/
   link: "https://twitter.com/jasonwarford"
+- icon: "fab fa-linkedin" # https://fontawesome.com/
+  link: "https://twitter.com/jasonwarford"
 ---
 
-Jason is a software developer with over 15 years of experience. He enjoys learning new things but .Net/C# is is jam.
+Jason is a software developer with over 18 years of experience. He enjoys learning new things but .Net/C# is is jam.
