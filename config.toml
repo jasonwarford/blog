@@ -121,9 +121,6 @@ expire_days = 2
 
 
 [[params.social]]
-url = "https://www.twitter.com/jasonwarford"
-icon = "fab fa-twitter" # https://fontawesome.com/
-[[params.social]]
 url = "https://www.linkedin.com/in/jason-warford-9496a21a1/"
 icon = "fab fa-linkedin" # https://fontawesome.com/
 
